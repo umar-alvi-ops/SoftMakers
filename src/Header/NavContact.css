@@ -1,0 +1,62 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: none;
+    transition: 0.5s;
+    color: orange;
+}
+.whatsap-main{
+    position: relative;
+}
+.facebook-log:hover{
+    color: blue;
+}
+.youtube-log:hover{
+    color:red;
+}
+.google-log:hover{
+    color: palevioletred ;
+}
+.Twitter:hover{
+    color:blue;
+}
+.linked-log:hover{
+    color: blue;
+}
+.whatsap{
+    position: fixed;
+    z-index: 999;
+    bottom: 35px;
+    right: 25px;
+}
+.whatsap-message{
+    font-size: 20px;
+}
+.whatsap-message:hover{
+    color: white;
+}
+.dis{
+    font-size: 13px;
+    size: 13px;
+}
+.mainc{
+    position: fixed;
+    top:0px;
+    width:100%;
+    z-index: 999;
+}
+@media(max-width:600px){
+    .icon{
+        display: none;
+    }
+}
+@media(max-width:786px){
+    .icon{
+        display: none;
+    }
+}
+@media(min-width:940){
+    
+}

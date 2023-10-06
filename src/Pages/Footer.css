@@ -1,0 +1,9 @@
+.footer-link{
+    color: black;
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+}
+.footer-link:hover{
+    color: orange;
+}
